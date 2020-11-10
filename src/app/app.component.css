@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+.head-title{
+	font-family: 'Montserrat';
+}
+.section-title{
+	font-family: 'Dosis';
+	font-weight: 800;
+}
+
+.section-title-light{
+	font-family: 'Dosis';
+	font-weight: 400;
+}
+
+.container {
+    margin-top: 60px;
+  }
+
+input.ng-invalid.ng-touched {
+    border: 1px red solid;
+  }  
+
+.shadow {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+  
